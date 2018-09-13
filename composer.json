@@ -3,7 +3,7 @@
 "description" : "Github test paketim.",
 "keywords" : ["test", "larevel","model dosyası"],
 "license": "MIT",
-"authors":
+"authors":[
 {
 "name": "Bülent İÇLİ",
 "email": "bulenticli68@gmail.com"
